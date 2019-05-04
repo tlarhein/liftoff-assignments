@@ -23,6 +23,7 @@ SpringBoot
 MAMP
 Excel -CVS Files export
 GIS (latitude/longitude mapping in MS Excel)
+The project will be tracked through Pivotal Tracker and GitHub.
 
 ### What I'll Have to Learn
 In order to add the geographical (gis) location of the area being studied, I will need to learn to incorporate MS Excel's latitude/longitude feature, after data has been downloaded from SQL in csv format.
