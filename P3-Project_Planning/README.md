@@ -10,11 +10,6 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-Pdf Files Available here:  file:///C:/Users/tlarh/OneDrive/Documents/Other%20Business/Launch%20Code/ResearchEase%20Wireframes1-3.pdf
-
-
-
-
 <ul class="Wireframes for ResearchEase">
     <li>Wireframes for ResearchEase
         <ul>
